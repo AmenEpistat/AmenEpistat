@@ -1,10 +1,11 @@
-# Hi, я Luiza 👋
+# Hi, I am Luiza 👋
 
 <img width="717" height="620" alt="Снимок экрана 2025-11-17 в 8 32 48 PM" src="https://github.com/user-attachments/assets/eab36d7f-3957-4d4e-b7fd-c70f2f973582" />
 
 
 ### 🛠 Tech Stack
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
@@ -14,6 +15,7 @@
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Twig](https://img.shields.io/badge/Twig-30BEB3?style=for-the-badge&logo=twig&logoColor=white)
 ![Pinia](https://img.shields.io/badge/Pinia-2C9E5E?style=for-the-badge)
+![MobX](https://img.shields.io/badge/MobX-FF9955?style=for-the-badge&logo=mobx&logoColor=white)
 ![Vue Router](https://img.shields.io/badge/Vue_Router-35495E?style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge)
@@ -39,5 +41,6 @@
 ![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=FFD02F)
 
 ---
