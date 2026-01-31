@@ -5,7 +5,7 @@
 </p>
 
 
-<img align="right" src="https://img.buzzfeed.com/buzzfeed-static/static/2018-08/21/18/asset/buzzfeed-prod-web-01/anigif_sub-buzz-13805-1534889046-8.gif" width="200" />
+<img align="right" src="https://img.buzzfeed.com/buzzfeed-static/static/2018-08/21/18/asset/buzzfeed-prod-web-01/anigif_sub-buzz-13805-1534889046-8.gif" width="150" />
 
 ### 🛠 Tech Stack
 
