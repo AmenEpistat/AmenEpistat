@@ -41,8 +41,9 @@
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
+|🌍 [**GeoCup**](https://github.com/AmenEpistat/GeoCup)| **Award-winning Geo-analytics & ML platform** platform. Secured **2nd place** at Changellenge >> **Cup IT 2026 (MTS)**. Processes 160k+ building objects with automated height restoration. | `React` `Tippecanoe` `PMTiles` `MobX` `Deck.gl` `MapLibre GL / Mapbox` |
 | 🎮 [**AlgoCode**](https://github.com/AmenEpistat/AlgoCode) | **Gamified platform** for mastering algorithms. Features an interactive world map and competitive logic. | `React` `Node.js` `MobX` |
-| 📈 [**Alpha Predict**](https://github.com/AmenEpistat/AlphaBank-Hack-Change) | **Income prediction model** UI for business analytics. Ranked **2nd place** in Alpha-Bank Hackathon. | `React` `MobX` |
+| 📈 [**Alpha Predict**](https://github.com/AmenEpistat/AlphaBank-Hack-Change) | **Income prediction model** UI for business analytics. Ranked **2nd place** in Alpha-Bank >> **Hack&Change 2025**. | `React` `MobX` |
 | 📖 [**VibeBook**](https://github.com/AmenEpistat/VibeBook) | Full-stack application for personalized book recommendations with **Admin/User roles**. | `Vue.js` `Pinia` `Node.js` |
 | 🐱 [**Cat Energy**](https://amenepistat.github.io/2567601-cat-energy-2/) | Responsive commercial landing page with **BEM**, **Sass**, and Retina optimization. | `HTML5` `SCSS` `JS` |
 
